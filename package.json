@@ -1,12 +1,12 @@
 {
   "name": "websocket",
   "version": "1.0.0",
-  "description": "websocket para facsy",
+  "description": "websocket",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Luciano Cespedes",
+  "author": "Man",
   "license": "ISC",
   "dependencies": {
     "ws": "^8.14.0"
